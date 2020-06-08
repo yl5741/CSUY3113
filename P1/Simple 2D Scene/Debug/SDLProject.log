@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\tomli\Documents\CSUY3113\P1\Simple 2D Scene\main.cpp(143,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tomli\Documents\CSUY3113\P1\Simple 2D Scene\main.cpp(147,58): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  SDLProject.vcxproj -> C:\Users\tomli\Documents\CSUY3113\P1\Simple 2D Scene\Debug\SDLProject.exe
