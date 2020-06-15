@@ -190,7 +190,7 @@ void Render() {
     glVertexAttribPointer(program.positionAttribute, 2, GL_FLOAT, false, 0, vertices);
     glEnableVertexAttribArray(program.positionAttribute);
     glVertexAttribPointer(program.texCoordAttribute, 2, GL_FLOAT, false, 0, texCoords);
-    glEnableVertexAttribArray(program.texCoordAttribute);
+    glEnableVertexAttribArray(program.texCoordAttribute);   
 
     drawPlayer();
     drawPrey1();
