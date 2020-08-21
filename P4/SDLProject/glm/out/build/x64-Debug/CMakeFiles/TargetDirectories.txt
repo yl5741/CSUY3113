@@ -1,0 +1,2 @@
+C:/Users/tomli/Documents/CSUY3113/P4/SDLProject/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/tomli/Documents/CSUY3113/P4/SDLProject/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

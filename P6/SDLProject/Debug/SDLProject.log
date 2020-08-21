@@ -1,0 +1,36 @@
+﻿  Background.cpp
+  EnemyBul.cpp
+  EnemyBulPool.cpp
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\EnemyBulPool.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\EnemyBulPool.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  Entity.cpp
+  Fairy.cpp
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\Fairy.cpp(31,23): warning C4018: '<': signed/unsigned mismatch
+  Fairy.h
+  FairyPool.cpp
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\FairyPool.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\FairyPool.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+  GameLost.cpp
+  GameWon.cpp
+  Level1.cpp
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\Level1.cpp(139,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Menu.cpp
+  PlayerBulPool.cpp
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\PlayerBulPool.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\PlayerBulPool.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  PlayerBul.cpp
+  PlayerHB.cpp
+  Remilia.cpp
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\Remilia.cpp(193,23): warning C4018: '<': signed/unsigned mismatch
+  Scene.cpp
+  ShaderProgram.cpp
+  Sound.cpp
+  Generating Code...
+  Compiling...
+  Util.cpp
+C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\Util.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+Debug\Fairy.obj : warning LNK4042: object specified more than once; extras ignored
+  SDLProject.vcxproj -> C:\Users\tomli\Documents\CSUY3113\P6\SDLProject\Debug\SDLProject.exe
